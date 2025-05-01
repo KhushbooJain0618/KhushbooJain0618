@@ -1,16 +1,73 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Khushboo Jain</h1>
+<h3 align="center">🚀 Full Stack Developer | 🌐 AI Enthusiast | 🎓 B.Tech CSE (AI) Student</h3>
 
-<!--
-**KhushbooJain0618/KhushbooJain0618** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=F7931E&center=true&vCenter=true&multiline=true&width=600&lines=Inventive+Developer+%7C+Creative+Leader;Driven+by+Innovation+and+Impact;Building+Web+and+AI+with+Passion" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me
+
+💡 I’m a passionate **B.Tech CSE (AI)** student with a strong foundation in **full-stack development** and **artificial intelligence**.
+
+✨ With over **50 certifications** (Sept 2024 – June 2025) and **45+ in-demand industry skills**, I've built **100+ functional websites/web applications** — from creative mini-tools to large-scale platforms.
+
+🚀 As a **team leader**, I’ve driven success in hackathons and projects, including:
+- 🥇 1st Place – Web App Development (CBSE)
+- 🏆 4th Place – GDG Transformer Odyssey Coding Competition
+
+🎤 I enjoy **public speaking**, simplifying tech, and turning ideas into impactful, user-friendly digital experiences.
+
+🧠 Currently working on **CREATIVERSE** – a revolutionary and 100% original concept not yet found on the internet.
+
+---
+
+## 💻 Projects
+
+| Project | Description |
+|--------|-------------|
+| 🧠 Creativerse *(in-progress)* | A revolutionary original platform blending creativity + tech — first of its kind. |
+| 🧪 Quiz Application | A fun, interactive web app for quizzes. Responsive and dynamic! |
+| 📦 Invenzo | Modern inventory management system with stunning UI & dashboard. |
+| 🩺 Shecura | Women’s health platform with 20+ working features & a premium dashboard. |
+
+---
+
+## 🛠 Tech Stack & Tools
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" height="180"/>
+</p>
+
+---
+
+## 📬 Connect With Me
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/khushboo-jain-7003a3301/)
+- 📧 Email: khushboo3006june@gmail.com
+- 📸 Instagram: [@khushboo_0618](https://instagram.com/khushboo_0618)
+- 👩 Pronouns: *She/Her*
+
+---
+
+### 🌠 “Creating is my calling. Innovation is my identity.”
+
+---
