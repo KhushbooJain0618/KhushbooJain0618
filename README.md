@@ -2,8 +2,15 @@
 <h3 align="center">🚀 Full Stack Developer | 🌐 AI Enthusiast | 🎓 B.Tech CSE (AI) Student</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=F7931E&center=true&vCenter=true&multiline=true&width=600&lines=Inventive+Developer+%7C+Creative+Leader;Driven+by+Innovation+and+Impact;Building+Web+and+AI+with+Passion" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=F7931E&center=true&vCenter=true&multiline=true&width=600&lines=Inventive+Developer+%7C+Creative+Leader" />
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=F7931E&center=true&vCenter=true&multiline=true&width=600&lines=Driven+by+Innovation+and+Impact" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=F7931E&center=true&vCenter=true&multiline=true&width=600&lines=Building+Web+and+AI+with+Passion" />
+</p>
+
 
 ---
 
@@ -53,8 +60,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=KhushbooJain0618&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhushbooJain0618&layout=compact&theme=radical" height="180"/>
 </p>
 
 ---
@@ -71,3 +78,20 @@
 ### 🌠 “Creating is my calling. Innovation is my identity.”
 
 ---
+🌱 Academic Highlight
+
+🎓 SGPA: 9.53 in 1st semester — Achieved as a first-year B.Tech CSE (AI) student.
+🔥 Passionate about blending technical excellence with creative execution.
+
+
+🌟 What Makes Me Different?
+
+    💡 Original Innovator: Currently working on CREATIVERSE, a never-before-seen concept, fully ideated and developed by me.
+
+    🎨 Design-Driven Developer: I merge art and code to build visually stunning, intuitive digital experiences.
+
+    🛠️ Full-Stack Firepower: From database to UI, I handle it all — efficiently and elegantly.
+
+    🧠 AI Explorer: Backed by Microsoft Excellence Badges in AI and real-world implementations.
+
+    💬 Tech Communicator: I explain complex tech in simple words — with passion, clarity, and impact.
