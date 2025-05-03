@@ -5,9 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=F7931E&center=true&vCenter=true&multiline=true&width=600&lines=Inventive+Developer+%7C+Creative+Leader" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=F7931E&center=true&vCenter=true&multiline=true&width=600&lines=Driven+by+Innovation+and+Impact" />
-</p>
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=F7931E&center=true&vCenter=true&multiline=true&width=600&lines=Building+Web+and+AI+with+Passion" />
 </p>
 
@@ -86,12 +83,12 @@
 
 🌟 What Makes Me Different?
 
-    💡 Original Innovator: Currently working on CREATIVERSE, a never-before-seen concept, fully ideated and developed by me.
+💡 Original Innovator: Currently working on CREATIVERSE, a never-before-seen concept, fully ideated and developed by me.
 
-    🎨 Design-Driven Developer: I merge art and code to build visually stunning, intuitive digital experiences.
+🎨 Design-Driven Developer: I merge art and code to build visually stunning, intuitive digital experiences.
 
-    🛠️ Full-Stack Firepower: From database to UI, I handle it all — efficiently and elegantly.
+🛠️ Full-Stack Firepower: From database to UI, I handle it all — efficiently and elegantly.
 
-    🧠 AI Explorer: Backed by Microsoft Excellence Badges in AI and real-world implementations.
+🧠 AI Explorer: Backed by Microsoft Excellence Badges in AI and real-world implementations.
 
-    💬 Tech Communicator: I explain complex tech in simple words — with passion, clarity, and impact.
+💬 Tech Communicator: I explain complex tech in simple words — with passion, clarity, and impact.
