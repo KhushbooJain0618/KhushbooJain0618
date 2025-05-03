@@ -77,18 +77,35 @@
 ---
 🌱 Academic Highlight
 
-🎓 SGPA: 9.53 in 1st semester — Achieved as a first-year B.Tech CSE (AI) student.
-🔥 Passionate about blending technical excellence with creative execution.
+    🎓 SGPA: 9.53 in 1st Semester
+    Proudly earned as a first-year B.Tech CSE (AI) student
+
+    🚀 Fueled by passion, driven by purpose — blending technical brilliance with boundless creativity.
 
 
 🌟 What Makes Me Different?
 
-💡 Original Innovator: Currently working on CREATIVERSE, a never-before-seen concept, fully ideated and developed by me.
+✨ Original Innovator
 
-🎨 Design-Driven Developer: I merge art and code to build visually stunning, intuitive digital experiences.
+    💡 CREATIVERSE — a revolutionary concept, envisioned and engineered entirely by me.
+    No templates. No clones. 100% original.
 
-🛠️ Full-Stack Firepower: From database to UI, I handle it all — efficiently and elegantly.
+🎨 Design-Driven Developer
 
-🧠 AI Explorer: Backed by Microsoft Excellence Badges in AI and real-world implementations.
+    I transform lines of code into living, breathing digital art.
+    Aesthetic. Functional. Human-centered.
 
-💬 Tech Communicator: I explain complex tech in simple words — with passion, clarity, and impact.
+🛠️ Full-Stack Firepower
+
+    From backend logic to pixel-perfect UI, I architect seamless, scalable solutions with finesse.
+    MongoDB ➝ Express ➝ React ➝ Node ➝ Done.
+
+🧠 AI Explorer
+
+    Honored with Microsoft Excellence Badges in AI and real-world applications under my belt.
+    I don't just learn AI — I live it.
+
+💬 Tech Communicator
+
+    I decode complexity and speak tech like a storyteller — clear, engaging, and impactful.
+    Because ideas deserve to be heard, not just built.
