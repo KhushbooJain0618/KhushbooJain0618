@@ -75,37 +75,35 @@
 ### 🌠 “Creating is my calling. Innovation is my identity.”
 
 ---
-🌱 Academic Highlight
+## 🌱 Academic Highlight
 
-    🎓 SGPA: 9.53 in 1st Semester
-    Proudly earned as a first-year B.Tech CSE (AI) student
+🎓 **SGPA: _9.53_ in 1st Semester**  
+_Proudly earned as a first-year B.Tech CSE (AI) student._
 
-    🚀 Fueled by passion, driven by purpose — blending technical brilliance with boundless creativity.
+🚀 **Fueled by passion, driven by purpose** — blending technical brilliance with boundless creativity.
 
+---
 
-🌟 What Makes Me Different?
+## 🌟 What Makes Me Different?
 
-✨ Original Innovator
+✨ **Original Innovator**  
+💡 _CREATIVERSE_ — a revolutionary concept, ideated and engineered entirely by me.  
+_No templates. No clones. 100% original._
 
-    💡 CREATIVERSE — a revolutionary concept, envisioned and engineered entirely by me.
-    No templates. No clones. 100% original.
+🎨 **Design-Driven Developer**  
+I merge art and code to craft immersive, user-first digital experiences.  
+_Visually stunning. Intuitively functional._
 
-🎨 Design-Driven Developer
+🛠️ **Full-Stack Firepower**  
+From backend logic to front-end polish, I build robust systems end-to-end.  
+_MongoDB → Express → React → Node — all in my toolkit._
 
-    I transform lines of code into living, breathing digital art.
-    Aesthetic. Functional. Human-centered.
+🧠 **AI Explorer**  
+Certified with **Microsoft Excellence Badges in AI** and seasoned with hands-on AI implementations.  
+_I don't just learn AI — I live it._
 
-🛠️ Full-Stack Firepower
+💬 **Tech Communicator**  
+I explain complex technologies in a way that resonates — clearly, simply, and passionately.  
+_Because good ideas deserve clarity._
 
-    From backend logic to pixel-perfect UI, I architect seamless, scalable solutions with finesse.
-    MongoDB ➝ Express ➝ React ➝ Node ➝ Done.
-
-🧠 AI Explorer
-
-    Honored with Microsoft Excellence Badges in AI and real-world applications under my belt.
-    I don't just learn AI — I live it.
-
-💬 Tech Communicator
-
-    I decode complexity and speak tech like a storyteller — clear, engaging, and impactful.
-    Because ideas deserve to be heard, not just built.
+---
