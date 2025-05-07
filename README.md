@@ -72,7 +72,7 @@
 ## 📬 Connect With Me
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/khushboo-jain-7003a3301/)
-- 📧 Email: khushboo3006june@gmail.com
+- 📧 Email: khushboo2006june@gmail.com
 - 📸 Instagram: [@khushboo_0618](https://instagram.com/khushboo_0618)
 - 👩 Pronouns: *She/Her*
 
