@@ -1,12 +1,27 @@
 <h1 align="center">Hi 👋, I'm Khushboo Jain</h1>
-<h3 align="center">🚀 Full Stack Developer | AI Enthusiast | 🎓 B.Tech CSE (AI) Student | Hackathon Competitor |💡 Team Leader | </h3>
+<h3 align="center">Full Stack Developer | AI Enthusiast | B.Tech CSE (AI) Student | Hackathon Competitor | Team Leader</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=F7931E&center=true&vCenter=true&multiline=true&width=600&lines=Inventive+Developer+%7C+Creative+Leader" />
 </p>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=F7931E&center=true&vCenter=true&multiline=true&width=600&lines=Building+Web+and+AI+with+Passion" />
 </p>
+
+<p align="center">
+  <a href="https://khushboojain.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=github" alt="Portfolio" />
+  </a>
+</p>
+
+<h4 align="center">Check out my portfolio and explore my projects:</h4>
+<p align="center">
+  <a href="https://khushboojain.netlify.app/" target="_blank" style="text-decoration: none; font-size: 16px; color: #F7931E; font-weight: bold;">
+    khushboojain.netlify.app
+  </a>
+</p>
+
 
 
 ---
