@@ -10,15 +10,15 @@
 </p>
 
 <p align="center">
-  <a href="https://khushboojain.netlify.app/" target="_blank">
+  <a href="https://khushbooverse.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=github" alt="Portfolio" />
   </a>
 </p>
 
 <h4 align="center">Check out my portfolio and explore my projects:</h4>
 <p align="center">
-  <a href="https://khushboojain.netlify.app/" target="_blank" style="text-decoration: none; font-size: 16px; color: #F7931E; font-weight: bold;">
-    khushboojain.netlify.app
+  <a href="https://khushbooverse.netlify.app/" target="_blank" style="text-decoration: none; font-size: 16px; color: #F7931E; font-weight: bold;">
+    khushbooverse.netlify.app
   </a>
 </p>
 
