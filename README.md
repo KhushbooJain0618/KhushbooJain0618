@@ -1,250 +1,130 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Khushboo Jain</h1>
+<h3 align="center">Full Stack Developer | AI Enthusiast | B.Tech CSE (AI) Student | Hackathon Competitor | Team Leader</h3>
 
-# <span style="color: #6366f1;">Khushboo Jain</span>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=F7931E&center=true&vCenter=true&multiline=true&width=600&lines=Inventive+Developer+%7C+Creative+Leader" />
+</p>
 
-### <span style="color: #8b5cf6;">Full Stack Developer & AI Engineer</span>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=F7931E&center=true&vCenter=true&multiline=true&width=600&lines=Building+Web+and+AI+with+Passion" />
+</p>
 
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 2rem; border-radius: 15px; margin: 2rem 0; box-shadow: 0 10px 30px rgba(0,0,0,0.1);">
-  <p style="color: white; font-size: 1.2rem; margin: 0.5rem 0;"><strong>B.Tech Computer Science (Artificial Intelligence)</strong></p>
-  <div style="background: rgba(255,255,255,0.2); padding: 0.5rem 1rem; border-radius: 25px; display: inline-block; margin: 0.5rem 0;">
-    <p style="color: white; margin: 0; font-weight: bold;">CGPA: 9.53/10</p>
-  </div>
-  <p style="color: white; font-size: 1.1rem; margin: 0.5rem 0;">Building Scalable Web Applications & Intelligent Systems</p>
-</div>
+<p align="center">
+  <a href="https://khushbooverse.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=github" alt="Portfolio" />
+  </a>
+</p>
 
-</div>
+<h4 align="center">Check out my portfolio and explore my projects:</h4>
+<p align="center">
+  <a href="https://khushbooverse.netlify.app/" target="_blank" style="text-decoration: none; font-size: 16px; color: #F7931E; font-weight: bold;">
+    khushbooverse.netlify.app
+  </a>
+</p>
 
----
 
-<div align="center" style="margin: 2rem 0;">
-
-## 🎯 <span style="color: #6366f1;">Professional Profile</span>
-
-<div style="background: #f8fafc; padding: 2rem; border-radius: 12px; border-left: 4px solid #6366f1; margin: 1rem 0;">
-  <p style="color: #475569; line-height: 1.6; margin: 0;">
-    Computer Science student specializing in Artificial Intelligence with <strong>exceptional academic performance (CGPA 9.53)</strong> and extensive practical experience in full-stack development. Demonstrated expertise in building complex web applications, implementing AI solutions, and leading technical teams to success in competitive environments.
-  </p>
-</div>
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem; margin: 1.5rem 0;">
-  <span style="background: linear-gradient(135deg, #667eea, #764ba2); color: white; padding: 0.5rem 1rem; border-radius: 20px; font-size: 0.9rem;">Full-Stack Development</span>
-  <span style="background: linear-gradient(135deg, #f093fb, #f5576c); color: white; padding: 0.5rem 1rem; border-radius: 20px; font-size: 0.9rem;">Artificial Intelligence</span>
-  <span style="background: linear-gradient(135deg, #4facfe, #00f2fe); color: white; padding: 0.5rem 1rem; border-radius: 20px; font-size: 0.9rem;">System Architecture</span>
-  <span style="background: linear-gradient(135deg, #43e97b, #38f9d7); color: white; padding: 0.5rem 1rem; border-radius: 20px; font-size: 0.9rem;">Team Leadership</span>
-</div>
-
-</div>
 
 ---
 
-## <div align="center"><span style="color: #6366f1;">🛠 Technical Expertise</span></div>
+## 🌟 About Me
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1.5rem; margin: 2rem 0;">
+💡 I’m a passionate **B.Tech CSE (AI)** student with a strong foundation in **full-stack development** and **artificial intelligence**.
 
-### <span style="color: #8b5cf6;">Frontend Development</span>
-<div style="background: white; padding: 1.5rem; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.05); border: 1px solid #e2e8f0;">
-- **Frameworks:** Next.js, React.js
-- **Styling:** Tailwind CSS, Bootstrap, CSS3
-- **Languages:** JavaScript, TypeScript, HTML5
-- **Animation:** Framer Motion
-</div>
+✨ With over **50 certifications** (Sept 2024 – June 2025) and **45+ in-demand industry skills**, I've built **100+ functional websites/web applications** — from creative mini-tools to large-scale platforms.
 
-### <span style="color: #f59e0b;">Backend Development</span>
-<div style="background: white; padding: 1.5rem; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.05); border: 1px solid #e2e8f0;">
-- **Runtime:** Node.js, Express.js
-- **Languages:** Python, JavaScript
-- **Frameworks:** Django, Flask
-- **Authentication:** JWT, OAuth
-</div>
+🚀 As a **team leader**, I’ve driven success in hackathons and projects, including:
+- 🥇 1st Place – Web App Development (CBSE)
+- 🏆 4th Place – GDG Transformer Odyssey Coding Competition
 
-### <span style="color: #10b981;">Database & Cloud</span>
-<div style="background: white; padding: 1.5rem; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.05); border: 1px solid #e2e8f0;">
-- **Databases:** MongoDB, SQLite, SQL
-- **Cloud Platforms:** Microsoft Azure, AWS, Vercel, Netlify
-- **API Tools:** Postman, RESTful APIs
-</div>
+🎤 I enjoy **public speaking**, simplifying tech, and turning ideas into impactful, user-friendly digital experiences.
 
-### <span style="color: #ef4444;">Artificial Intelligence</span>
-<div style="background: white; padding: 1.5rem; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.05); border: 1px solid #e2e8f0;">
-- **Machine Learning:** Predictive Modeling, Pattern Recognition
-- **Natural Language Processing:** OpenAI API, Text Processing
-- **AI Development:** Microsoft Azure AI, AI Integration
-- **Data Analysis:** Pandas, NumPy, Matplotlib
-</div>
-
-</div>
+🧠 Currently working on **CREATIVERSE** – a revolutionary and 100% original concept not yet found on the internet.
 
 ---
 
-## <div align="center"><span style="color: #6366f1;">🚀 Project Portfolio</span></div>
+## 💻 Projects
 
-<div style="margin: 2rem 0;">
-
-### <span style="color: #8b5cf6;">Schedura - Academic Scheduling Platform</span>
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 1.5rem; border-radius: 12px; margin: 1rem 0;">
-  <p style="margin: 0.5rem 0;"><strong>Smart Classroom and Timetable Scheduler | October 2025 - Present</strong></p>
-  <p style="margin: 0.5rem 0; opacity: 0.9;">Next.js | Tailwind CSS | MongoDB | Node.js | Express.js | Framer Motion</p>
-</div>
-
-<div style="background: #f8fafc; padding: 1.5rem; border-radius: 8px; margin: 1rem 0;">
-  <p>Comprehensive role-based academic scheduling platform automating clash-free timetable creation for educational institutions. Implements AI-based conflict detection and provides separate dashboards for administrators, teachers, and students.</p>
-  
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1rem; margin: 1rem 0;">
-    <div style="background: white; padding: 1rem; border-radius: 8px; border-left: 4px solid #8b5cf6;">
-      <strong>Multi-role Access Control</strong>
-      <p style="margin: 0.5rem 0 0 0; font-size: 0.9rem; color: #64748b;">Secure authentication system</p>
-    </div>
-    <div style="background: white; padding: 1rem; border-radius: 8px; border-left: 4px solid #f59e0b;">
-      <strong>Real-time Notifications</strong>
-      <p style="margin: 0.5rem 0 0 0; font-size: 0.9rem; color: #64748b;">Instant updates and alerts</p>
-    </div>
-    <div style="background: white; padding: 1rem; border-radius: 8px; border-left: 4px solid #10b981;">
-      <strong>AI Conflict Detection</strong>
-      <p style="margin: 0.5rem 0 0 0; font-size: 0.9rem; color: #64748b;">Smart scheduling resolution</p>
-    </div>
-  </div>
-
-  <div style="text-align: center; margin-top: 1rem;">
-    <a href="https://khushboo17.vercel.app/" style="background: #6366f1; color: white; padding: 0.75rem 1.5rem; border-radius: 25px; text-decoration: none; display: inline-block; transition: all 0.3s ease;" onmouseover="this.style.background='#4f46e5'" onmouseout="this.style.background='#6366f1'">
-      View Live Demo
-    </a>
-  </div>
-</div>
-
-### <span style="color: #f59e0b;">Platform 9¾ - Event Management System</span>
-<div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); color: white; padding: 1.5rem; border-radius: 12px; margin: 1rem 0;">
-  <p style="margin: 0.5rem 0;"><strong>Real-Time Leaderboard & Competition Platform | October 2025</strong></p>
-  <p style="margin: 0.5rem 0; opacity: 0.9;">Next.js | Tailwind CSS | MongoDB | Node.js | Express.js | Framer Motion</p>
-</div>
-
-<div style="background: #f8fafc; padding: 1.5rem; border-radius: 8px; margin: 1rem 0;">
-  <p>Harry Potter-themed real-time leaderboard system built exclusively for Coding Ninjas Club Event. Managed seven competition rounds with dynamic scoring, team progress tracking, and multi-role administrative access.</p>
-</div>
-
-### <span style="color: #10b981;">CreatiVerse - Multiverse Creative Platform</span>
-<div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); color: white; padding: 1.5rem; border-radius: 12px; margin: 1rem 0;">
-  <p style="margin: 0.5rem 0;"><strong>Interactive Creative Expression Platform | June 2025 - July 2025</strong></p>
-  <p style="margin: 0.5rem 0; opacity: 0.9;">Flask | HTML | CSS | Bootstrap | JavaScript | Python | OpenAI API</p>
-</div>
-
-<div style="background: #f8fafc; padding: 1.5rem; border-radius: 8px; margin: 1rem 0;">
-  <p>Innovative platform offering multiple creative realms for storytelling, art creation, quiz battles, and collaborative brainstorming. Features AI co-writers, mood-based music systems, and encrypted diary functionality.</p>
-</div>
-
-</div>
+| Project | Description |
+|--------|-------------|
+| 🧠 Creativerse *(in-progress)* | A revolutionary original platform blending creativity + tech — first of its kind. |
+| 🧪 Quiz Application | A fun, interactive web app for quizzes. Responsive and dynamic! |
+| 📦 Invenzo | Modern inventory management system with stunning UI & dashboard. |
+| 🩺 Shecura | Women’s health platform with 20+ working features & a premium dashboard. |
 
 ---
 
-## <div align="center"><span style="color: #6366f1;">🏆 Achievements & Education</span></div>
+## 🛠 Tech Stack & Tools
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 2rem; margin: 2rem 0;">
-
-### <span style="color: #8b5cf6;">Academic Excellence</span>
-<div style="background: white; padding: 1.5rem; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.05); border: 1px solid #e2e8f0;">
-  <div style="text-align: center;">
-    <div style="background: linear-gradient(135deg, #667eea, #764ba2); color: white; width: 80px; height: 80px; border-radius: 50%; display: flex; align-items: center; justify-content: center; margin: 0 auto 1rem; font-size: 1.5rem; font-weight: bold;">
-      9.53
-    </div>
-    <p style="font-weight: bold; margin: 0.5rem 0;">CGPA Score</p>
-    <p style="color: #64748b; margin: 0;">B.Tech CSE (AI)<br>Chitkara University</p>
-  </div>
-</div>
-
-### <span style="color: #f59e0b;">Competition Success</span>
-<div style="background: white; padding: 1.5rem; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.05); border: 1px solid #e2e8f0;">
-  <div style="display: flex; align-items: center; margin-bottom: 1rem;">
-    <div style="background: #fbbf24; color: white; width: 40px; height: 40px; border-radius: 50%; display: flex; align-items: center; justify-content: center; margin-right: 1rem; font-weight: bold;">
-      1st
-    </div>
-    <div>
-      <strong>Web Application Development</strong>
-      <p style="margin: 0.25rem 0 0 0; color: #64748b;">CBSE Competition</p>
-    </div>
-  </div>
-  <div style="display: flex; align-items: center;">
-    <div style="background: #94a3b8; color: white; width: 40px; height: 40px; border-radius: 50%; display: flex; align-items: center; justify-content: center; margin-right: 1rem; font-weight: bold;">
-      4th
-    </div>
-    <div>
-      <strong>GDG Transformer Odyssey</strong>
-      <p style="margin: 0.25rem 0 0 0; color: #64748b;">Coding Competition</p>
-    </div>
-  </div>
-</div>
-
-### <span style="color: #10b981;">Certifications</span>
-<div style="background: white; padding: 1.5rem; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.05); border: 1px solid #e2e8f0;">
-  <div style="display: flex; align-items: center; margin-bottom: 1rem;">
-    <div style="background: #0078d4; color: white; width: 40px; height: 40px; border-radius: 50%; display: flex; align-items: center; justify-content: center; margin-right: 1rem; font-size: 0.8rem; text-align: center;">
-      Azure
-    </div>
-    <div>
-      <strong>Microsoft Azure AI Fundamentals</strong>
-    </div>
-  </div>
-  <div style="display: flex; align-items: center; margin-bottom: 1rem;">
-    <div style="background: #ff9900; color: white; width: 40px; height: 40px; border-radius: 50%; display: flex; align-items: center; justify-content: center; margin-right: 1rem; font-size: 0.8rem; text-align: center;">
-      AWS
-    </div>
-    <div>
-      <strong>AWS Solutions Architecture</strong>
-    </div>
-  </div>
-  <p style="text-align: center; color: #6366f1; font-weight: bold; margin: 1rem 0 0 0;">+45 Technical Certifications</p>
-</div>
-
-</div>
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
+![PythonAnywhere](https://img.shields.io/badge/PythonAnywhere-0075A8?style=flat&logo=python&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 
 ---
 
-## <div align="center"><span style="color: #6366f1;">📊 GitHub Analytics</span></div>
+## 📈 GitHub Stats
 
-<div align="center" style="margin: 2rem 0;">
-
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1.5rem; margin: 2rem 0;">
-
-<div style="background: white; padding: 1.5rem; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.05); border: 1px solid #e2e8f0;">
-  <h4 style="color: #6366f1; margin-top: 0;">Development Activity</h4>
-  <img src="https://github-readme-stats.vercel.app/api?username=KhushbooJain0618&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" height="165"/>
-</div>
-
-<div style="background: white; padding: 1.5rem; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.05); border: 1px solid #e2e8f0;">
-  <h4 style="color: #6366f1; margin-top: 0;">Language Specialization</h4>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhushbooJain0618&layout=compact&theme=radical&hide_border=true" height="165"/>
-</div>
-
-</div>
-
-<div style="background: white; padding: 1.5rem; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.05); border: 1px solid #e2e8f0; max-width: 600px; margin: 0 auto;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KhushbooJain0618&theme=radical&hide_border=true" height="165"/>
-</div>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KhushbooJain0618&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhushbooJain0618&layout=compact&theme=radical" height="180"/>
+</p>
 
 ---
 
-<div align="center" style="margin: 3rem 0;">
+## 📬 Connect With Me
 
-## <span style="color: #6366f1;">💫 Let's Connect</span>
+- 🔗 [LinkedIn](https://www.linkedin.com/in/khushboo-jain-7003a3301/)
+- 📧 Email: khushboo2006june@gmail.com
+- 📸 Instagram: [@khushboo_0618](https://instagram.com/khushboo_0618)
+- 👩 Pronouns: *She/Her*
 
-<div style="display: flex; justify-content: center; gap: 1rem; flex-wrap: wrap; margin: 2rem 0;">
+---
 
-<a href="https://khushbooverse.netlify.app/" style="background: linear-gradient(135deg, #667eea, #764ba2); color: white; padding: 1rem 2rem; border-radius: 25px; text-decoration: none; display: flex; align-items: center; gap: 0.5rem; transition: all 0.3s ease; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.3);" onmouseover="this.style.transform='translateY(-2px)'; this.style.boxShadow='0 6px 20px rgba(102, 126, 234, 0.4)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 4px 15px rgba(102, 126, 234, 0.3)'">
-  Portfolio
-</a>
+### 🌠 “Creating is my calling. Innovation is my identity.”
 
-<a href="https://www.linkedin.com/in/khushboo-jain-7003a3301/" style="background: linear-gradient(135deg, #0a66c2, #00a0dc); color: white; padding: 1rem 2rem; border-radius: 25px; text-decoration: none; display: flex; align-items: center; gap: 0.5rem; transition: all 0.3s ease; box-shadow: 0 4px 15px rgba(10, 102, 194, 0.3);" onmouseover="this.style.transform='translateY(-2px)'; this.style.boxShadow='0 6px 20px rgba(10, 102, 194, 0.4)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 4px 15px rgba(10, 102, 194, 0.3)'">
-  LinkedIn
-</a>
+---
+## 🌱 Academic Highlight
 
-<a href="mailto:khushboo2006june@gmail.com" style="background: linear-gradient(135deg, #ea4335, #fbbc05); color: white; padding: 1rem 2rem; border-radius: 25px; text-decoration: none; display: flex; align-items: center; gap: 0.5rem; transition: all 0.3s ease; box-shadow: 0 4px 15px rgba(234, 67, 53, 0.3);" onmouseover="this.style.transform='translateY(-2px)'; this.style.boxShadow='0 6px 20px rgba(234, 67, 53, 0.4)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 4px 15px rgba(234, 67, 53, 0.3)'">
-  Email
-</a>
+🎓 **SGPA: _9.53_ in 1st Semester**  
+_Proudly earned as a first-year B.Tech CSE (AI) student._
 
-</div>
+🚀 **Fueled by passion, driven by purpose** — blending technical brilliance with boundless creativity.
 
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 2rem; border-radius: 15px; margin: 2rem 0; box-shadow: 0 10px 30px rgba(0,0,0,0.1);">
-  <p style="font-size: 1.2rem; font-weight: bold; margin: 0;">Building the future through technical excellence and innovative solutions</p>
-</div>
+---
 
-</div>
+## 🌟 What Makes Me Different?
+
+✨ **Original Innovator**  
+💡 _CREATIVERSE_ — a revolutionary concept, ideated and engineered entirely by me.  
+_No templates. No clones. 100% original._
+
+🎨 **Design-Driven Developer**  
+I merge art and code to craft immersive, user-first digital experiences.  
+_Visually stunning. Intuitively functional._
+
+🛠️ **Full-Stack Firepower**  
+From backend logic to front-end polish, I build robust systems end-to-end.  
+_MongoDB → Express → React → Node — all in my toolkit._
+
+🧠 **AI Explorer**  
+Certified with **Microsoft Excellence Badges in AI** and seasoned with hands-on AI implementations.  
+_I don't just learn AI — I live it._
+
+💬 **Tech Communicator**  
+I explain complex technologies in a way that resonates — clearly, simply, and passionately.  
+_Because good ideas deserve clarity._
+
+---
